@@ -1,6 +1,6 @@
 namespace Ejercicios;
 
-public class EjercicioD
+public class EjercicioD_1
 {
     //asd
     public class Persona
@@ -27,6 +27,27 @@ public class Estudiante : Persona
     public override void Saludar()
     {
       Console.WriteLine("Soy " + Nombre + ", estudiante de " + Carrera + ".");
+    }
+  }
+
+}
+
+public class EjercicioD_2
+{
+  public interface ICalculable
+  {
+    double Calcular();
+    string Descripcion();
+  }
+  public class Circulo : ICalculable
+  {
+    public double Radio { get; private set; }
+    public Circulo(double radio) { Radio = radio; }
+    public double Calcular() {
+      return 3.14 * Radio * Radio;
+    }
+    public string Descripcion() {
+      return "Circulo de radio " + Radio;
     }
   }
 

@@ -1,6 +1,6 @@
 namespace Ejercicios;
 
-public class EjercicioC
+public class EjercicioE
 {
     //asd
 }

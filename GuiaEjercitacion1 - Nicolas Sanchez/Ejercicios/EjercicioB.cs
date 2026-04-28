@@ -26,7 +26,12 @@ public class EjercicioB
 
   // ============================================
   // SECCIÓN B — Pregunta 3
-  // Imprime: 
-  // Explicacion: 
+  // Imprime: "Ford: nafta"
+  //          "Toyota: diesel"
+  //          "Tesla: electrico"
+  // 
+  // ¿Qué pasaría si quitás override de Auto.TipoMotor()?: Daria un error de compilacion, ya que la funcion padre al ser virtual,
+  // al no poner override en las clases hijas, no se considerarian como funciones que pueden ser sobreescritas. Por lo que daria un error al intentar llamar a 
+  // "TipoMotor()" en un objeto de tipo Auto.
   // ============================================
 }

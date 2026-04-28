@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-      //asd  
+      ICalculable figura = new Circulo(5);
+      Console.WriteLine(figura.Descripcion() + " Area: " + figura.Calcular());
     }
 }
