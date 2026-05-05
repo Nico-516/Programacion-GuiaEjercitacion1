@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GuiaEjercitacion1-NicolasSanchez/1.0.0": {
+        "runtime": {
+          "GuiaEjercitacion1-NicolasSanchez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuiaEjercitacion1-NicolasSanchez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

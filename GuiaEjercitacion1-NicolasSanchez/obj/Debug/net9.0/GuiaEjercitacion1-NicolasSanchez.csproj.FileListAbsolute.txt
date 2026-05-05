@@ -1,0 +1,15 @@
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\bin\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.exe
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\bin\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.deps.json
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\bin\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.runtimeconfig.json
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\bin\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.dll
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\bin\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.pdb
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.GeneratedMSBuildEditorConfig.editorconfig
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.AssemblyInfoInputs.cache
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.AssemblyInfo.cs
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.csproj.CoreCompileInputs.cache
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.sourcelink.json
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.dll
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\refint\GuiaEjercitacion1-NicolasSanchez.dll
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.pdb
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\GuiaEjercitacion1-NicolasSanchez.genruntimeconfig.cache
+f:\facu\Programacion\Programacion-GuiaEjercitacion1\GuiaEjercitacion1-NicolasSanchez\obj\Debug\net9.0\ref\GuiaEjercitacion1-NicolasSanchez.dll
